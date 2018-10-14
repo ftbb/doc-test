@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "appd.yaml",
+    "name": "AppD POC Service API",
+    "repo": "ftbb/doc-test",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
