@@ -4,7 +4,7 @@
     "importedSpec": "appd.yaml",
     "name": "AppD POC Service API",
     "repo": "ftbb/doc-test",
-    "splitSpec": true,
+    "splitSpec": false,
     "samples": true,
     "installSwaggerUI": true
   }
