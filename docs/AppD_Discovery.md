@@ -62,7 +62,9 @@ Application data discovery shall be accessible through a unique application iden
 **Example:**
 
 ```
-`getAppData(``"app@sub.root"``) ` `return``{``   ``"guid"``: ``"app@sub.root"``,``   ``"id"``:``1``,``   ``"name"``:``"app"``,``   ``"title"``:``"A really cool app"``,``   ``"manifest_url"``:``"https://sub.root/app.json"``,``   ``"description"``:``"An app that provides really cool financial data"``,``   ``"contact_email"``:``"info@sub.root"``,``   ``"support_email"``:``"support@sub.root"``,``   ``"signature"``:``"https://sub.root/app"``,``   ``"publisher"``:``"foo"``,``   ``"icon"``:``"https://sub.root/app/img/1525196540430.jpg"``,``   ``"appPage"``:``"/apps/app"``,``   ``"images"``:[``            ``{``              ``"url"``:``"https://sub.root/app/img/1525196540315.png"``            ``}]``}`
+
+	`getAppData(``"app@sub.root"``) ` `return``{``   ``"guid"``: 			``"app@sub.root"``,``   ``"id"``:``1``,``   ``"name"``:``"app"``,``   		``"title"``:``"A really cool app"``,``   							``"manifest_url"``:``"https://sub.root/app.json"``,``   				``"description"``:``"An app that provides really cool financial 		data"``,``   ``"contact_email"``:``"info@sub.root"``,``   				``"support_email"``:``"support@sub.root"``,``   						``"signature"``:``"https://sub.root/app"``,``   						``"publisher"``:``"foo"``,``   											``"icon"``:``"https://sub.root/app/img/1525196540430.jpg"``,``   		``"appPage"``:``"/apps/app"``,``   ``"images"``:[``            ``{``              ``"url"``:``"https://sub.root/app/img/1525196540315.png"``            ``}]``}`
+
 ```
 
 
