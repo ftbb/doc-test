@@ -1,6 +1,22 @@
 ---
 nav-sort: 1
 ---
-# Symphony by Example
-Contains documentation and examples based on use cases that apply to the API's, language bindings and SDKs being developed within the Symphony community. Documentation of design patterns and practical use cases are a key focus. In most cases, examples should be deep linked into project from external repositories. With this said, contributed code snippets and full examples are allowed.
+# ![fdc3-logo](images/fdc3-logo.png)
 
+#  AppD Specification
+
+
+
+The FDC3 App Directory provides trusted identity for financial desktop apps. This identity can be used to prevent spoofing and man-in-the-middle attacks when apps communicate with one another and exchange data. The App Directory also enables service discovery. Apps are registered with a declaration of the intents and context data that can be used when interoperating.
+
+
+
+## Core features
+
+- Provide verification of identity for an application running on a desktop - whether it is Native, Web, or Hybrid.
+- Resolve human readable names for applications to the location of and instructions for launching
+- Serve as a repository for application metadata supporting discoverability by intent, context, and other workflow driven facets.
+
+
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in BCP 14, [RFC 2119](https://tools.ietf.org/id/draft-faltstrom-uri-11.html#RFC2119) [RFC2119].
