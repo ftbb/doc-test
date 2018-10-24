@@ -19,4 +19,5 @@ The FDC3 App Directory provides trusted identity for financial desktop apps. Thi
 
 
 
+
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in BCP 14, [RFC 2119](https://tools.ietf.org/id/draft-faltstrom-uri-11.html#RFC2119) [RFC2119].
