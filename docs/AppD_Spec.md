@@ -1,5 +1,5 @@
 ---
-nav-sort: 1
+nav-sort: 100
 ---
 
 [The Application Directory specification](appd-specification.html)
